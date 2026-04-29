@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://manchester-digital-hub.github.io/manchester-ai-insights-blog/index.html</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-29</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://manchester-digital-hub.github.io/manchester-ai-insights-blog/about.html</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-04-29</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
@@ -48,6 +48,11 @@
   <url>
     <loc>https://manchester-digital-hub.github.io/manchester-ai-insights-blog/posts/2026-04-26-edge-computing-and-the-future-of-fast-reliable-websites.html</loc>
     <lastmod>2026-04-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://manchester-digital-hub.github.io/manchester-ai-insights-blog/posts/2026-04-29-schema-markup-in-2024-how-structured-data-drives-richer-search-visibility.html</loc>
+    <lastmod>2026-04-29</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
