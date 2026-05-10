@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://manchester-digital-hub.github.io/manchester-ai-insights-blog/index.html</loc>
-    <lastmod>2026-05-09</lastmod>
+    <lastmod>2026-05-10</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://manchester-digital-hub.github.io/manchester-ai-insights-blog/about.html</loc>
-    <lastmod>2026-05-09</lastmod>
+    <lastmod>2026-05-10</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
@@ -61,8 +61,13 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://manchester-digital-hub.github.io/manchester-ai-insights-blog/posts/2026-05-10-crawl-budget-optimisation-how-search-engines-decide-what-to-index-on-your-site.html</loc>
+    <lastmod>2026-05-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://manchester-digital-hub.github.io/manchester-ai-insights-blog/posts/index.html</loc>
-    <lastmod>2026-05-09</lastmod>
+    <lastmod>2026-05-10</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
